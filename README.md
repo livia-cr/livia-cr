@@ -24,7 +24,7 @@ Também estou estudando **Inteligência Artificial**, explorando esse universo a
 
 ---
 
-### ⚙️ O que eu faço (e curto fazer)
+### ⚙️ O que eu faço 
 - 💻 Desenvolvimento **full stack** (sempre buscando deixar tudo redondinho)
 - 🤖 Estudo constante de **Inteligência Artificial** e automação
 - 🧠 Gosto de resolver problemas e aprender com cada desafio
